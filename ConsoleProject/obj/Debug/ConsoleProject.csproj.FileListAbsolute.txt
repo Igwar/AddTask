@@ -1,0 +1,7 @@
+D:\Курсы епам\ConsoleProject\ConsoleProject\bin\Debug\ConsoleProject.exe.config
+D:\Курсы епам\ConsoleProject\ConsoleProject\bin\Debug\ConsoleProject.exe
+D:\Курсы епам\ConsoleProject\ConsoleProject\bin\Debug\ConsoleProject.pdb
+D:\Курсы епам\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.csprojResolveAssemblyReference.cache
+D:\Курсы епам\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.csproj.CoreCompileInputs.cache
+D:\Курсы епам\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.exe
+D:\Курсы епам\ConsoleProject\ConsoleProject\obj\Debug\ConsoleProject.pdb
